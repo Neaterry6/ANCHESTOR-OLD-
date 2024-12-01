@@ -16,15 +16,15 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [61561305611223],
+  "adminBot": ["100090443419982","100075528791428","100062160914296","61553871285563",],
     
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [61561305611223],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": " 𝘼𝙣𝙘𝙝𝙚𝙨𝙩𝙤𝙧 𝘼𝙞 ",
-  "prefix": "/",
+  "nickNameBot": "Nexus Devs BOT ❣️🌹",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
